@@ -1,0 +1,21 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Font awesome
+@import "node_modules/font-awesome/scss/font-awesome";
+
+// Default is Bootstrap
+// I changed it to Bulma
+@import 'node_modules/bulma/bulma';
+
+// Bulma Vue Modules
+@import "node_modules/buefy/src/scss/buefy";
+
+// Importing custom SASS files:
+@import "overrides"; // overrides of framework (custom changes in framework)
+@import "helpers"; // custom margins, paddings and similiar small edits
+@import "manage";
+@import "styles";

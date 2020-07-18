@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://varovny-system.herokuapp.com/sitemap.xml

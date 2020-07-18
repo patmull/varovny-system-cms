@@ -1,0 +1,1351 @@
+<?php
+echo '
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://varovny-system.herokuapp.com/</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/o-nas</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kontakt</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/bud-varovan</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-konani-fotbaloveho-zapasu-mezi-fk-teplice-a-fc-slovan-liberec-dne-23-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-narizeni-vsem-poskytovatelum-socialnich-sluzeb-k-prijimani-novych-klientu-a-jejich-testovani-na-sars-cov-2-s-ucinnosti-od-25-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-omezeni-provozu-lazenske-lecebne-rehabilitacni-pece-s-ucinnosti-od-25-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-omezeni-provozu-zdravotnickych-zarizeni-luzkove-pece-a-zarizeni-socialnich-sluzeb-s-ucinnosti-od-25-5-2020-do-odvolani</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-omezeni-provozu-skol-a-skolskych-zarizeni-s-ucinnosti-od-25-5-2020-do-odvolani</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-zakaz-a-omezeni-hromadnych-akci-nad-300-osob-s-ucinnosti-od-25-5-2020-do-odvolani</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-noseni-ochrannych-prostredku-dychacich-cest-s-vyjimkami-s-ucinnosti-od-25-5-2020-do-odvolani</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-omezeni-provozoven-a-provozu-sluzeb-s-ucinnosti-od-25-5-2020-do-odvolani</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-947-pozitivnich-pripadu-onemocneni-covid-19-situace-k-19-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-strucne-k-vyskytu-onemocneni-covid-19-v-a-muzstvu-fotbaloveho-klubu-sk-slavia-praha-fotbal</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/be-warned</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/zemetreseni</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/vitr</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/snezeni</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/ledovka</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/bourky</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/bez-kategorie</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/vetrne-boure</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/lavina</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/zvysena-koncentrace-oxidu-siriciteho</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/ostatni</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/extremni-horko</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/naledi</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/extremni-dest</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/povodnove-varovani</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/hrozba-pozaru</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/zvysena-koncentrace-ozonu</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/zvysena-prasnost</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/zvysena-koncentrace-oxidu-dusiciteho</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-6-raj-2020-04-26-11-59-41-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-735-pozitivnich-pripadu-onemocneni-covid-19-situace-k-3-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-819-pozitivnich-pripadu-onemocneni-covid-19-situace-k-9-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/tag/ceska-televize</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/tag/mzcr</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=2</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=3</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=4</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=5</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=6</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=7</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=8</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=36</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=37</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=2</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=3</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=4</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=5</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=6</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=7</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=8</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=31</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=32</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-7-skrecon-2020-05-18-12-26-33-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-5-obora-u-vysneho-2020-05-13-20-29-24-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-7-ostrava-hrabova-2020-05-07-04-00-11-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-8-vysoky-potok-2020-02-02-17-45-30-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/zemetreseni?page=2</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/zemetreseni?page=3</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-silny-vitr-hlavni-mesto-praha-stredocesky-kraj-jihocesky-kraj-ustecky-kraj-bilina-decin-chomutov-kadan-litomerice-litvinov-louny-lovosice-most-podborany-roudnice-nad-l</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-silny-vitr-stredocesky-kraj-caslav-melnik-mlada-boleslav-mnichovo-hradiste-jihocesky-kraj-ustecky-kraj-decin-litomerice-lovosice-roudnice-nad-labem-teplice-usti-nad-lab</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-silny-vitr-stredocesky-kraj-caslav-melnik-mlada-boleslav-mnichovo-hradiste-jihocesky-kraj-ustecky-kraj-decin-litomerice-lovosice-roudnice-nad-labem-teplice-usti-nad-labem</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-nova-snehova-pokryvka-liberecky-kraj-frydlant-jablonec-nad-nisou-jilemnice-liberec-semily-tanvald-turnov-zelezny-brod-kralovehradecky-kraj-broumov-dobruska-rychnov-nad</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-nova-snehova-pokryvka-karlovarsky-kraj-ustecky-kraj-decin-chomutov-kadan-litvinov-teplice-usti-nad-labem</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-nova-snehova-pokryvka-karlovarsky-kraj-cheb-karlovy-vary-kraslice-marianske-lazne-ostrov-sokolov-ustecky-kraj-chomutov-kadan-litvinov-teplice-liberecky-kraj-frydlant</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-mraz-ve-vegetacnim-obdobi-karlovarsky-kraj-kralovehradecky-kraj-pardubicky-kraj-ceska-trebova-holice-kraliky-lanskroun-litomysl-moravska-trebova-policka-svitavy-usti-nad</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-mraz-ve-vegetacnim-obdobi-jihocesky-kraj-plzensky-kraj-karlovarsky-kraj-kraj-vysocina</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-mraz-ve-vegetacnim-obdobi-hlavni-mesto-praha-stredocesky-kraj-jihocesky-kraj-plzensky-kraj-karlovarsky-kraj-ustecky-kraj-liberecky-kraj-kralovehradecky-kraj-pardubicky-kraj</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-velmi-silne-bourky-pardubicky-kraj-kraj-vysocina-bystrice-nad-pernstejnem-chotebor-nove-mesto-na-morave-velke-mezirici-zdar-nad-sazavou-jihomoravsky-kraj-blansko-boskovice</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-velmi-silne-bourky-jihocesky-kraj-ceske-budejovice-cesky-krumlov-dacice-jindrichuv-hradec-kaplice-prachatice-sobeslav-tabor-trhove-sviny-trebon-tyn-nad-vltavou-vimperk</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/chmu-vyhled-nebezpecnych-jevu-hlavni-mesto-praha-stredocesky-kraj-jihocesky-kraj-plzensky-kraj-karlovarsky-kraj-ustecky-kraj-liberecky-kraj-kralovehradecky-kraj-pardubicky-kraj</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/uvolnovani-dalsich-opatreni-rousky-nejsou-nutne-v-provozech-kde-se-zamestnanci-potykaji-s-horkem-a-v-kancelarich</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=1</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-zruseni-opatreni-obecne-povahy-ze-dne-16-3-2020-k-omezeni-provadeni-zdravotnich-vykonu-v-ramci-planovane-pece</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-noseni-ochrannych-prostredku-dychacich-cest-s-vyjimkami-s-ucinnosti-od-19-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-937-pozitivnich-pripadu-onemocneni-covid-19-situace-k-18-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-927-pozitivnich-pripadu-onemocneni-covid-19-situace-k-17-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-zruseni-mimoradneho-opatreni-ze-dne-9-4-2020-k-narizeni-ovm-a-so</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-narizeni-vezenske-sluzbe-cr-od-18-5-2020-do-odvolani</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-zakaz-a-omezeni-hromadnych-akci-nad-100-osob-od-18-5-do-25-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-uprava-podminek-provozu-stravovacich-a-ubytovacich-zarizeni-od-18-5-do-25-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-omezeni-provozu-zarizeni-socialnich-sluzeb-od-18-5-do-25-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-omezeni-provozu-skol-a-skolskych-zarizeni-od-18-5-do-25-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-ochranne-opatreni-omezeni-prekroceni-statni-hranice-cr-od-18-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-891-pozitivnich-pripadu-onemocneni-covid-19-situace-k-15-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-ministerstvo-zdravotnictvi-definovalo-podminky-pro-letni-tabory-v-dobe-epidemie-koronaviru</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-ministerstvo-zdravotnictvi-predstavilo-hygienicka-pravidla-k-dalsi-vlne-rozvolnovani-prijatych-opatreni-od-25-kvetna</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-prazsti-hygienici-zverejnuji-hygienicke-pokyny-pro-skoly-a-skolska-zarizeni-pripravene-ministerstvem-skolstvi-mladeze-a-telovychovy</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-871-pozitivnich-pripadu-onemocneni-covid-19-situace-k-14-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-od-11-kvetna-je-mozne-navstevovat-take-obchodni-centra</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-865-pozitivnich-pripadu-onemocneni-covid-19-situace-k-13-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-pracovnelekarske-sluzby</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-prazsti-hygienici-doporucuji-vybranym-skupinam-obyvatel-preventivne-nosit-rousky-i-po-25-kvetnu</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-845-pozitivnich-pripadu-onemocneni-covid-19-situace-k-12-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=9</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=10</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-vlada-od-25-kvetna-na-zaklade-priznive-epidemiologicke-situace-zmirnuje-povinnost-noseni-rousek-na-verejnosti</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-noseni-ochrannych-prostredku-dychacich-cest-s-vyjimkami-s-ucinnosti-od-12-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-836-pozitivnich-pripadu-onemocneni-covid-19-situace-k-11-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=11</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-414-pozitivnich-pripadu-onemocneni-covid-19-situace-k-12-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-432-pozitivnich-pripadu-onemocneni-covid-19-situace-k-13-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-pracovnici-socialnich-sluzeb-kteri-se-dostali-do-kontaktu-s-nakazenym-mohou-v-praci-pokracovat-za-dodrzeni-prisnych-podminek</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-vyzva-ministerstva-zdravotnictvi-k-postupnemu-restartu-zdravotni-pece</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-vlada-projednala-navrh-postupneho-uvolnovani-mimoradnych-opatreni</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=35</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=29</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=30</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=31</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=32</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=33</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=34</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-450-pozitivnich-pripadu-onemocneni-covid-19-situace-k-14-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=1</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=9</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=10</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-od-11-kvetna-bude-opet-mozne-navstivit-obchodni-centra-venkovni-zahradky-v-restauracich-nebo-vyrazit-za-kulturou</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-825-pozitivnich-pripadu-onemocneni-covid-19-situace-k-10-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-chytra-karantena-nahradi-dosavadni-plosna-opatreni-proti-koronaviru</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-797-pozitivnich-pripadu-onemocneni-covid-19-situace-k-8-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=11</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=30</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=24</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=25</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=26</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=27</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=28</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=29</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-9-ostrava-bartovice-2020-02-09-03-22-44-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-7-dolni-bory-2020-02-20-09-04-59-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-6-chvaletice-2020-03-02-09-22-05-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-5-ostrava-kuncicky-2020-03-03-17-30-06-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-slabe-zemetreseni-magnitudy-ml-3-3-chotebuz-2020-03-21-20-25-05-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/zemetreseni?page=1</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-6-nove-mesto-na-morave-2020-03-27-08-24-56-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-8-karvina-mesto-2020-03-28-00-47-49-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/emsc-velmi-slabe-zemetreseni-magnitudy-ml-2-7-mackovice-2020-04-10-12-28-54-utc</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=12</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=13</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-782-pozitivnich-pripadu-onemocneni-covid-19-situace-k-7-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-vedecka-rada-ministerstva-zdravotnictvi-podporila-uvolnovani-zdravotni-pece</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-infekce-covid-19-prosla-ceskou-populaci-velmi-mirne-podobne-jako-v-okolnich-zemich</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=14</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-narizeni-k-organizaci-a-provadeni-karanteny-v-socialnich-sluzbach</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-povinnost-noseni-rousek-se-nove-nevztahuje-na-osoby-s-poruchou-autistickeho-spektra-a-cleny-domacnosti-jedouci-v-aute</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-275-pozitivnich-pripadu-onemocneni-covid-19-situace-k-9-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-323-pozitivnich-pripadu-onemocneni-covid-19-situace-k-10-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-390-pozitivnich-pripadu-onemocneni-covid-19-situace-k-11-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-informace-hlavniho-mesta-prahy-v-souvislosti-s-mimoradnymi-opatrenimi-spojenych-s-onemocnenim-covid-19</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-od-pondeli-se-obnovi-farmarske-trhy-remesla-vysokoskolske-zkousky-i-male-svatby</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-vlada-navrhla-zvyseni-osetrovneho-a-potvrdila-od-pondeli-castecne-uvolneni-nekterych-opatreni</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-531-pozitivnich-pripadu-onemocneni-covid-19-situace-k-17-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-510-pozitivnich-pripadu-onemocneni-covid-19-situace-k-16-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=28</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=26</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=27</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/podil-pozitivnich-pripadu-covid-19-z-celkoveho-poctu-testu-nadale-klesa-k-tlaku-na-akutni-luzkovou-peci-nedochazi</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-pro-ukonceni-karanteny-provedou-prakticti-lekari-vysetreni-na-pritomnost-protilatek</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-ministerstvo-zdravotnictvi-opet-povoli-pritomnost-druheho-rodice-u-porodu</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-ministerstvo-zdravotnictvi-podporilo-vznik-noveho-magazinu-ct-linka-1212</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-podil-pozitivnich-pripadu-covid-19-z-celkoveho-poctu-testu-nadale-klesa-k-tlaku-na-akutni-luzkovou-peci-nedochazi</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-uzavreni-skol-a-skolskych-zarizeni-s-ucinnosti-od-20-4-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-zakaz-maloobchodniho-prodeje-a-sluzeb-s-vyjimkami-s-ucinnosti-od-20-4-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-zakaz-volneho-pohybu-osob-s-vyjimkami-s-ucinnosti-od-20-4-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-narizeni-vezenske-sluzbe-cr</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-elektronicke-zadanky-v-prostredi-nzis-s-ucinnosti-od-16-4-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-ukoncovani-karanteny-s-ucinnosti-od-22-4-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-zakaz-navstev-pacientu-ve-zdravotnickych-zarizenich-a-zarizenich-socialnich-sluzeb-s-vyjimkami-s-ucinnosti-od-16-4-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-476-pozitivnich-pripadu-onemocneni-covid-19-situace-k-15-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-prazsti-hygienici-dekuji-za-podporu</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-nadeje-pro-nemocne-s-covid-19-sanci-na-uzdraveni-maji-i-starsi-pacienti-s-radou-dalsich-pridruzenych-onemocneni</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-kapacity-akutni-pece</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-stanovisko-k-provadeni-plosne-dezinfekce-prostor-a-ploch-na-verejnem-prostranstvi</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-noseni-ochrannych-prostredku-dychacich-cest-s-vyjimkami</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-narizeni-spravnim-uradum-i</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-narizeni-spravnim-uradum-ii</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-narizeni-poskytovatelum-socialnich-sluzeb</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-ukoncovani-karanteny</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-zakaz-volneho-pohybu-osob-s-vyjimkami</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-ukonceni-platnosti-casti-mimoradneho-opatreni-kontaktni-mista-verejne-zpravy-czech-point</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-769-pozitivnich-pripadu-onemocneni-covid-19-situace-k-6-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-noseni-ochrannych-prostredku-dychacich-cest-s-vyjimkami-s-ucinnosti-od-5-5-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=12</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-759-pozitivnich-pripadu-onemocneni-covid-19-situace-k-5-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-vlada-schvalila-dalsi-navrhy-na-pomoc-podnikatelum-od-11-kvetna-se-rozjede-preshranicni-osobni-hromadna-doprava</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-739-pozitivnich-pripadu-onemocneni-covid-19-situace-k-4-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-rozvolnovaci-opatreni-hygienicka-pravidla-pro-posilovny-telocvicny-fitness-cetnra-holicstvi-a-kadernictvi-maserske-sluzby-ci-manikury-a-pedikury</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-rozvolnovaci-opatreni-hygienicka-pravidla-pro-posilovnky-telocvicny-fitness-cetnra-holicstvi-a-kadernictvi-maserske-sluzby-ci-manikury-a-pedikur</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=13</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-hygienicka-pravidla-pro-sluzby-ktere-mohou-byt-od-11-kvetna-2020-opet-poskytovany-holicstvi-a-kadernictvi-maserske-sluzby-ci-manikury-a-pedikury</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-727-pozitivnich-pripadu-onemocneni-covid-19-situace-k-2-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-721-pozitivnich-pripadu-onemocneni-covid-19-situace-k-1-5-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-ministerstva-zdravotnictvi-skolstvi-a-prumyslu-predstavila-hygienicka-pravidla-pro-provozy-ktere-se-oteviraji-11-kvetna</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=14</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-zakaz-volneho-pohybu-osob-s-vyjimkami-s-ucinnosti-od-27-4-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=23</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=21</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=22</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=15</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=16</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-prazsti-hygienici-v-prvni-den-chytre-karanteny-dobre-pripraveni</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=17</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-elektronicke-zadanky-v-prostredi-nzis-s-ucinnosti-od-18-4-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-rozhodnuti-o-docasnem-povoleni-neregistrovaneho-humanniho-leciveho-pripravku-avigan</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-zruseni-mimoradneho-opatreni-ze-dne-4-3-2020-k-hromadnym-akcim-nad-5000-osob</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-zruseni-mimoradneho-opatreni-ze-dne-7-3-2020-k-navratu-z-pobytu-na-uzemi-italske-republiky</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=25</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-zapomente-na-rusny-spolecensky-zivot-dva-z-prazskych-nemocnych-na-zacatku-epidemie-meli-kontakt-se-tremi-sty-lidmi-rozhovor-mudr-zdenky-jagrove-pro</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-sefka-hygienicke-stanice-v-praze-varuje-zapomente-na-rusny-spolecensky-zivot-dva-z-prazskych-nemocnych-na-zacatku-epidemie-meli-kontakt-se-tremi-sty</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-ministerstvo-zdravotnictvi-vydalo-aktualizovane-algoritmy-a-doporuceni</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-mimoradne-opatreni-ministerstva-zajisti-efektivnejsi-predavani-informaci-v-ramci-projektu-chytra-karantena</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-vlada-navrhuje-prodlouzit-financni-pomoc-osvc-i-v-kvetnu-chce-zvysit-i-platby-za-statni-pojistence</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=23</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=24</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-prazsti-hygienici-informuji-prazanum-slouzi-2-nova-odberova-mista-na-covid-19-metropole-jich-ma-uz-celkem-7</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-597-pozitivnich-pripadu-onemocneni-covid-19-situace-k-20-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-zruseni-mimoradneho-opatreni-ze-dne-10-3-2020-ke-kulturnim-a-jinym-akcim-nad-100-osob</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-chytra-karantena</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-569-pozitivnich-pripadu-onemocneni-covid-19-situace-k-19-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-prazska-hygiena-je-na-zavedeni-chytre-karanteny-pripravena</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-zruseni-mimoradneho-opatreni-ze-dne-10-3-2020-k-osobni-pritomnosti-zaku-a-studentu-ve-skolach</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-mimoradne-opatreni-narizeni-k-zajisteni-rapid-testu-u-poskytovatelu-zdravotnich-sluzeb</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=15</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-vlada-schvalila-pravidla-rozvolnovani-mimoradnych-opatreni-od-11-kvetna-nouzovy-stav-plati-do-17-kvetna</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-z-onemocneni-covid-19-se-vylecilo-jiz-pres-40-nakazenych-ceska-republika-je-v-boji-s-epidemii-nadale-uspesna</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-vyjimky-z-povinnosti-noseni-rousek-se-nove-rozsiruji-na-deti-do-sedmi-let-v-ms-a-detskych-skupinach-umelce-i-moderatory-za-splneni-presnych-podminek</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-711-pozitivnich-pripadu-onemocneni-covid-19-situace-k-30-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-pocet-odberovych-mist-na-covid-19-v-praze-se-dale-rozrusta-je-jich-uz-9-nove-v-italske-v-praze-2-a-v-podoli-v-praze-4</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=16</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-pocet-odberovych-mist-na-covid-19-se-dale-rozrusta-je-jich-uz-9-nove-v-italske-v-praze-2-a-v-podoli-v-praze-4</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-pocet-odberovych-mist-na-covid-19-se-dale-rozrusta-je-jich-uz-10</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-703-pozitivnich-pripadu-onemocneni-covid-19-situace-k-29-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-studii-kolektivni-imunity-proslo-pres-15-tisic-lidi-organizatori-vyzyvaji-k-ucasti-vsechny-osoby-pozvane-ceskym-statistickym-uradem</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-vlada-prodlouzila-program-podpory-zamestnaneckych-mist-antivirus-az-do-konce-kvetna</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=17</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-552-pozitivnich-pripadu-onemocneni-covid-19-situace-k-18-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=20</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-zapomente-na-rusny-spolecensky-zivot-rozhovor-mudr-zdenky-jagrove-pro-internetovy-server-parlamentni-listy-cz</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=18</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/kategorie/epidemie?page=19</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=18</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=19</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-697-pozitivnich-pripadu-onemocneni-covid-19-situace-k-28-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=20</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-zruseni-mimoradneho-opatreni-ze-dne-7-3-2020-o-zastaveni-prijmu-zadosti-o-viza-v-teheranu</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-ceske-republice-zacina-unikatni-studie-kolektivni-imunity-vuci-covid-19</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-i-v-praze-23-dubna-zacne-studie-kolektivni-imunity-ohledne-onemocneni-covid-19</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-na-rusny-spolecensky-zivot-je-dobre-prozatim-zapomenout-rozhovor-reditelky-prazske-hygieny-mudr-zdenky-jagrove-pro-parlametni-listy-cz</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=22</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-prazsti-hygienici-v-metropoli-eviduji-dalsi-z-covid-19-vylecene-seniory</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-646-pozitivnich-pripadu-onemocneni-covid-19-situace-k-22-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/autor/administrator?page=21</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-stanovisko-k-noseni-ochranneho-stitu-bez-rousky</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-635-pozitivnich-pripadu-onemocneni-covid-19-situace-k-21-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-zruseni-ochranneho-opatreni-ze-dne-3-2-2020-k-zakazu-letu-z-cinske-lidove-republiky</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-zruseni-ochranneho-opatreni-ze-dne-10-2-2020-o-zastaveni-prijmu-zadosti-o-viza-v-clr-a-hongkongu</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-zruseni-mimoradneho-opatreni-ze-dne-5-3-2020-o-zakazu-vyvozu-desinfekce-rukou</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-691-pozitivnich-pripadu-onemocneni-covid-19-situace-k-27-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-685-pozitivnich-pripadu-onemocneni-covid-19-situace-k-26-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-za-prvni-tri-dny-bylo-ve-studijnich-stanech-otestovano-dvanact-tisic-lidi</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/ministerstvo-zdravotnictvi-usneseni-vlady-ze-dne-23-4-2020</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://varovny-system.herokuapp.com/varovani/hygienicka-stanice-hlavniho-mesta-prahy-v-praze-1-677-pozitivnich-pripadu-onemocneni-covid-19-situace-k-25-4-2020-18-00-hodin</loc>
+  <lastmod>2020-05-20T16:39:11+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>';
+
+?>

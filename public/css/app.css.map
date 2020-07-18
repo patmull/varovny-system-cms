@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAU;EACR,QAAQ,EAAE,QAAQ;;AAMd,2BAAY;EACV,UAAU,EAAE,gBAAgB;EAC5B,MAAM,EAAE,MAAM;AAGhB,qBAAI;EACF,MAAM,EAAE,cAAc;EACtB,OAAO,EAAE,KAAK;EAEd,2BAAQ;IACN,gBAAgB,EAAE,KAAK;AAM/B,8CAAkC;EAChC,KAAK,EAAE,CAAC;EACR,IAAI,EAAE,IAAI;AAGZ,qCAAyB;EACvB,OAAO,EAAE,KAAK",
+"sources": ["../../resources/sass/overrides.scss"],
+"names": [],
+"file": "app.css"
+}
